@@ -39,18 +39,10 @@ body {
 h1 {
     color: #d6336c;
 }
-/* img {
-    max-width: 400px;
+img {
+    max-width: 500px;
     border-radius: 10px;
     margin: 10px 0;
-} */
-img {
-    max-width: 600px;   /* Makes the image fit the container */
-    height: auto;  /* Maintains aspect ratio */
-    border-radius: 10px;
-    margin: 0; /* Removes margin */
-    max-height: 500px;/* Adjust this value to reduce the height */
-    object-fit: cover; /* Ensures it covers the space well */
 }
 
 
